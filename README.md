@@ -37,7 +37,7 @@ Welcome to my GitHub! My place to learn and experiment as a full-stack web devel
 ![Avocode](https://img.shields.io/badge/-Avocode-00C7B7?logo=avocode&logoColor=white&style=flat)
 
 
-### 📚 Currently Learning / Planning to Learn
+## 📚 Currently Learning / Planning to Learn
 - Applying my knowledge of TypeScript in React projects
 - Refreshing my skills in Angular
 - Deepening my understanding of Web Accessibility (A11y)

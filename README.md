@@ -1,4 +1,5 @@
-## Hi there, I'm Vlada 👋
+## Hi there, I'm Vlada👋
+Welcome to my GitHub! My place to learn and experiment as a full-stack web developer! 
 
 
 ## 🛠️ Technologies & Tools I Use
@@ -44,7 +45,7 @@
 
 
 ## ⚡ Fun fact: 
-I worked as an Accountant for 8 years and automated all accounting processes in the companies I worked for. So when everything was done, I was more interested in programming than accounting.
+I worked as an Accountant for 8 years and automated all accounting processes in the companies I worked for. So when everything was done, I was more interested in programming than accounting. So here I am 😄
 
 
 

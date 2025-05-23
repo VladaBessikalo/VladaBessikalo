@@ -38,6 +38,7 @@ Welcome to my GitHub! My place to learn and experiment as a full-stack web devel
 
 
 ## 📚 Currently Learning / Planning to Learn
+- Redux toolkit
 - Applying my knowledge of TypeScript in React projects
 - Refreshing my skills in Angular
 - Deepening my understanding of Web Accessibility (A11y)

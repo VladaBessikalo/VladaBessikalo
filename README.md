@@ -43,6 +43,7 @@ Welcome to my GitHub! My place to learn and experiment as a full-stack web devel
 - Refreshing my skills in Angular
 - Deepening my understanding of Web Accessibility (A11y)
 - Exploring Next.js and its features
+- Algorithms and Data Structures
 
 
 ## ⚡ Fun fact: 
